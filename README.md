@@ -1,4 +1,4 @@
-# CX 4230: Computer Simulation Project 2
+# CSE 6730: Computer Simulation Project 2
 
 Simulating average time to pass through Peachtree Street southbound between 10th and 14th street in Atlanta, GA with NGSIM Traffic Data.
 
